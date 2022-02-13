@@ -13,3 +13,7 @@ print(classes_per_week, type(classes_per_week))
 cost_per_class = (cost_per_week / classes_per_week)
 print("cost per class:", cost_per_class)
 #Part B
+my_list = [1,2.5,3,4.5,5]
+print(random.choice(my_list))
+first_try = 2.5
+print(first_try)
